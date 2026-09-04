@@ -1,0 +1,104 @@
+LICENCIA DE SOFTWARE PROPIETARIO — GNK
+
+AUTOR Y TITULAR DE LOS DERECHOS
+
+Nombre completo del autor y titular:
+Kevin Yeray García Neri
+
+Kevin Yeray García Neri es el único autor y titular del proyecto personal
+GNK — Sistema de gestión y control de almacén.
+
+Copyright © 2026 Kevin Yeray García Neri. Todos los derechos reservados.
+
+
+1. IDENTIFICACIÓN DEL PROYECTO
+
+GNK es un proyecto personal de software desarrollado íntegramente por
+Kevin Yeray García Neri.
+
+El nombre GNK identifica el proyecto y el software desarrollado por su
+autor.
+
+
+2. PROPIEDAD
+
+El código fuente, archivos ejecutables, documentación, diseños,
+interfaces, bases de datos, recursos y demás componentes originales
+desarrollados específicamente para GNK pertenecen a Kevin Yeray García
+Neri, como único autor y titular del proyecto, sujeto a los derechos y
+limitaciones establecidos por la legislación aplicable.
+
+
+3. DERECHOS RESERVADOS
+
+Todos los derechos sobre GNK quedan reservados a Kevin Yeray García Neri.
+
+La publicación de GNK o de cualquiera de sus archivos no constituye una
+cesión de derechos ni una autorización general para copiar, modificar,
+vender o redistribuir el software.
+
+
+4. USOS NO AUTORIZADOS
+
+Sin autorización previa y expresa de Kevin Yeray García Neri, queda
+prohibido, en la medida permitida por la legislación aplicable:
+
+- Copiar o redistribuir el código fuente.
+- Modificar, adaptar o crear obras derivadas del software.
+- Comercializar, vender, sublicenciar o alquilar el software.
+- Redistribuir versiones modificadas o no autorizadas.
+- Extraer o reutilizar componentes originales de GNK en otros programas.
+- Utilizar el código fuente de GNK para desarrollar software derivado.
+- Intentar obtener el código fuente mediante descompilación, ingeniería
+  inversa o técnicas similares, salvo cuando una excepción legal
+  aplicable lo permita.
+
+
+5. DISTRIBUCIÓN OFICIAL
+
+Las versiones oficiales de GNK podrán ser distribuidas por los canales
+autorizados por Kevin Yeray García Neri.
+
+El repositorio GNK-Updates tiene como finalidad distribuir versiones
+oficiales y actualizaciones del software.
+
+
+6. ACTUALIZACIONES
+
+Los archivos publicados en GNK-Updates corresponden a versiones oficiales
+de GNK.
+
+La publicación de una actualización no concede al usuario derechos de
+propiedad sobre GNK ni sobre su código fuente.
+
+
+7. RESERVA DE DERECHOS
+
+Cualquier derecho que no haya sido concedido expresamente mediante esta
+licencia queda reservado a Kevin Yeray García Neri.
+
+
+8. LEGISLACIÓN APLICABLE
+
+Esta licencia deberá interpretarse de acuerdo con la legislación
+aplicable. En caso de conflicto con una disposición legal de cumplimiento
+obligatorio, prevalecerá dicha disposición únicamente en la medida
+necesaria.
+
+
+DECLARACIÓN DE AUTORÍA
+
+Yo, Kevin Yeray García Neri, declaro que GNK es un proyecto personal del
+cual soy el único autor y titular de los derechos correspondientes,
+sujeto a la legislación aplicable.
+
+Autor y titular:
+KEVIN YERAY GARCÍA NERI
+
+Proyecto:
+GNK — Sistema de gestión y control de almacén
+
+Año:
+2026
+
+Esta licencia establece las condiciones de uso del software.
