@@ -1,0 +1,203 @@
+LICENCIA DE SOFTWARE PROPIETARIO GNK SYSTEMS
+
+Copyright © 2026 Kevin Yeray García Neri. Todos los derechos reservados.
+
+====================================================================== 1.
+IDENTIDAD Y ESTRUCTURA DEL PROYECTO
+======================================================================
+
+GNK SYSTEMS es la identidad tecnológica y paraguas de los productos,
+sistemas, aplicaciones, módulos, componentes y desarrollos de software
+que formen parte del ecosistema GNK.
+
+Dentro de GNK SYSTEMS podrán existir, entre otros, productos y sistemas
+como:
+
+-   GNK G&M — Gestión y Mantenimiento.
+-   GNK Mobile.
+-   GNK y sus componentes, módulos, herramientas, servicios y futuras
+    aplicaciones que sean incorporadas al ecosistema GNK SYSTEMS.
+
+Las denominaciones anteriores pueden modificarse, ampliarse o
+sustituirse por nuevas denominaciones comerciales o de producto sin
+afectar la titularidad de los derechos sobre el software.
+
+======================================================================
+2. AUTOR Y TITULAR
+======================================================================
+
+Autor y titular de los derechos correspondientes al proyecto:
+
+KEVIN YERAY GARCÍA NERI
+
+GNK SYSTEMS constituye la identidad paraguas bajo la cual se organizan
+los desarrollos y productos del ecosistema GNK.
+
+La utilización de la denominación GNK SYSTEMS como identidad paraguas no
+implica, por sí misma, la transferencia de derechos de autor a una
+persona jurídica distinta ni constituye una declaración sobre la
+titularidad de una marca registrada.
+
+La titularidad definitiva de marcas, nombres comerciales, derechos de
+autor u otros derechos deberá determinarse conforme a los documentos
+legales y registros que correspondan.
+
+======================================================================
+3. PROPIEDAD DEL SOFTWARE
+======================================================================
+
+El código fuente, archivos ejecutables, aplicaciones, documentación,
+diseños, interfaces, bases de datos, estructuras, lógica,
+configuraciones, recursos gráficos, sistemas de actualización y demás
+componentes originales desarrollados específicamente para el ecosistema
+GNK SYSTEMS pertenecen a su titular, sujeto a la legislación aplicable.
+
+Esto incluye los productos y componentes identificados bajo GNK G&M, GNK
+Mobile y cualquier otro producto que posteriormente se integre al
+ecosistema GNK SYSTEMS.
+
+La publicación, entrega, instalación o distribución de una versión del
+software no constituye una cesión de derechos de propiedad intelectual.
+
+======================================================================
+4. DERECHOS RESERVADOS
+======================================================================
+
+Todos los derechos que no hayan sido concedidos expresamente mediante
+esta licencia quedan reservados al titular.
+
+La presente licencia no concede al usuario propiedad sobre el código
+fuente, la arquitectura, las bases de datos, los diseños, las
+interfaces, las marcas, los nombres de producto ni los demás elementos
+protegidos del ecosistema GNK SYSTEMS.
+
+======================================================================
+5. USOS NO AUTORIZADOS
+======================================================================
+
+Sin autorización previa y expresa del titular, y en la medida permitida
+por la legislación aplicable, queda prohibido:
+
+-   Copiar o redistribuir el código fuente.
+-   Modificar, adaptar o crear obras derivadas del software.
+-   Comercializar, vender, sublicenciar, alquilar o transferir el
+    software fuera de las condiciones autorizadas.
+-   Redistribuir versiones modificadas o no autorizadas.
+-   Extraer, reutilizar o incorporar componentes originales de GNK
+    SYSTEMS en otros programas o productos.
+-   Utilizar el código fuente para desarrollar software derivado.
+-   Eliminar o alterar avisos de propiedad, autoría, licencia o
+    identificación.
+-   Presentar como propio cualquier producto, componente o desarrollo
+    perteneciente al ecosistema GNK SYSTEMS.
+-   Intentar obtener el código fuente mediante descompilación,
+    ingeniería inversa o técnicas similares, salvo cuando una excepción
+    legal aplicable lo permita.
+
+======================================================================
+6. DISTRIBUCIÓN OFICIAL
+======================================================================
+
+Las versiones oficiales de los productos GNK SYSTEMS podrán distribuirse
+únicamente mediante los canales autorizados por el titular.
+
+Los repositorios, paquetes, instaladores, archivos APK, ejecutables,
+actualizaciones o releases oficiales tienen como finalidad distribuir
+versiones autorizadas del software.
+
+La recepción de una copia autorizada no concede al usuario derechos de
+propiedad sobre el software.
+
+======================================================================
+7. ACTUALIZACIONES Y VERSIONES
+======================================================================
+
+Las actualizaciones y nuevas versiones publicadas para los productos del
+ecosistema GNK SYSTEMS forman parte del mismo sistema de propiedad
+intelectual, salvo que se indique expresamente lo contrario.
+
+Cada versión podrá incorporar condiciones adicionales en sus notas de
+versión, documentación o acuerdos específicos.
+
+======================================================================
+8. MARCA E IDENTIDAD GNK SYSTEMS
+======================================================================
+
+GNK SYSTEMS se establece como identidad paraguas para identificar y
+organizar el ecosistema de software GNK.
+
+El nombre GNK SYSTEMS, sus logotipos, elementos gráficos y demás signos
+distintivos podrán estar sujetos a protección marcaria u otros
+mecanismos de propiedad intelectual conforme a los registros y
+procedimientos correspondientes.
+
+La presente licencia no constituye por sí misma un registro de marca ni
+sustituye una solicitud o título de registro ante el Instituto Mexicano
+de la Propiedad Industrial (IMPI) u otra autoridad competente.
+
+Cuando corresponda, los productos del ecosistema podrán identificarse
+como:
+
+GNK SYSTEMS ├── GNK G&M ├── GNK Mobile └── Futuros productos y sistemas
+GNK
+
+======================================================================
+9. LICENCIAS DE TERCEROS
+======================================================================
+
+Los componentes de terceros incorporados al software permanecen sujetos
+a sus respectivas licencias.
+
+Esta licencia protege únicamente los elementos originales cuya
+titularidad corresponda al proyecto GNK SYSTEMS y no pretende sustituir
+ni modificar las licencias de terceros.
+
+======================================================================
+10. LEGISLACIÓN APLICABLE
+======================================================================
+
+Esta licencia deberá interpretarse de acuerdo con la legislación
+aplicable.
+
+En caso de conflicto entre esta licencia y una disposición legal de
+cumplimiento obligatorio, prevalecerá dicha disposición únicamente en la
+medida necesaria.
+
+======================================================================
+11. DECLARACIÓN DE AUTORÍA
+======================================================================
+
+Yo, KEVIN YERAY GARCÍA NERI, declaro que el proyecto GNK y sus
+desarrollos originales forman parte del ecosistema identificado bajo GNK
+SYSTEMS y que los derechos correspondientes a dichos desarrollos se
+mantienen reservados conforme a la legislación aplicable.
+
+Autor y titular: KEVIN YERAY GARCÍA NERI
+
+Identidad paraguas: GNK SYSTEMS
+
+Productos actuales: GNK G&M GNK Mobile
+
+Año: 2026
+
+======================================================================
+12. AVISO LEGAL
+======================================================================
+
+Esta licencia establece condiciones de uso del software y una
+declaración de titularidad y organización del proyecto.
+
+No constituye por sí sola un registro de derechos de autor, registro de
+marca, sociedad mercantil, cesión de derechos ni asesoría jurídica.
+
+La protección y titularidad de cada derecho dependerá de la legislación
+aplicable y de los documentos, registros y evidencias de autoría que
+conserve el titular.
+
+======================================================================
+FIN DE LA LICENCIA
+======================================================================
+
+GNK SYSTEMS GNK G&M GNK Mobile
+
+Copyright © 2026 Kevin Yeray García Neri. Todos los derechos reservados.
